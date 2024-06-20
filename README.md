@@ -1,4 +1,4 @@
-"# To-Do App
+# To-Do App
 
 This To-Do App allows users to manage their tasks efficiently. It provides functionality to add, view, and delete tasks, with an option to set due dates and countdown timers.
 
@@ -72,4 +72,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to customize this README to better fit your project's specifics and style."
+Feel free to customize this README to better fit your project's specifics and style.
