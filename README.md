@@ -69,7 +69,3 @@ This file contains the HTML structure and JavaScript code for the countdown time
 ## License
 
 This project is licensed under the MIT License.
-
----
-
-Feel free to customize this README to better fit your project's specifics and style.
